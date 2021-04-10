@@ -17,9 +17,9 @@
 ## STEPS
 
 // Have a layout for the greeting  
-// implement buton onclick behaviour  
-// install readline-sync  
-// require readline-sync in index.js  
+// implement button onclick behaviour  
+// DONE install readline-sync  
+// DONE require readline-sync in index.js  
 // display the terminal  
 // loads a list of questions and display one by one  
 // for reach question  
