@@ -1,9 +1,15 @@
-// "use strict";
-import "./styles.css";
-const readlineSync = require("readline-sync");
+"use strict";
+/*import "../.package.json/";
+var readlineSync = require("readline-sync"); */
 
-const userName = readlineSync.question("May I have your name? ");
+// Wait for user's response.
+var userName = readlineSync.question("May I have your name? ");
 console.log("Hi " + userName + "!");
+
+while (true) {
+  command = readlineSync.prompt();
+  console.log("hello");
+}
 
 // HIGH LEVEL
 // Stories:
