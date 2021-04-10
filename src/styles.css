@@ -10,6 +10,7 @@ html {
 }
 
 body {
+<<<<<<< HEAD
     font-family: sans-serif;
     height: 100vh;
     width: 100%;
@@ -21,3 +22,8 @@ main {
   justify-content: center;
   align-items: center;
 }
+=======
+  font-family: sans-serif;
+  background-color: aqua;
+}
+>>>>>>> a32b2911586312a3ac2aa1350fa4b69202249fcf
